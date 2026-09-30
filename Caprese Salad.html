@@ -4,7 +4,8 @@
 <body> 
 <h1> Caprese Salad </h1>
 <br> 
-<img src="CapreseSalad.png" alt="Caprese Salad" width="400" height="300"> <br>
+<div align="center"> 
+<img src="CapreseSalad.png" alt="Caprese Salad" width="400" height="300" align="center"> <br> </div>
 <p> Description:  </p>
 
 Flavor Profile: Clean, bright, and balanced. The sweet acidity of ripe summer tomatoes cuts through the creamy, mild richness of fresh mozzarella, while fresh basil adds a peppery, herbal aroma. A drizzle of balsamic glaze provides a sweet, tangy finish.
@@ -14,7 +15,7 @@ Texture & Feel: Juicy, soft, and contrasting. Slicing through fresh mozzarella o
 Culinary Context: Originating from the island of Capri in Italy, the dish was created to showcase the colors of the Italian flag (red, white, and green) and relies entirely on using peak-season, raw ingredients.
 <br> 
 <label class="difficulty"> Difficulty: </label>
-<progress class="difficulty" value="1" max="10"> </progress>
+<progress class="difficulty" value="1" max="10"> 1  </progress>
 
 <hr> <ul>
   <li>Ingredients
@@ -36,7 +37,15 @@ Culinary Context: Originating from the island of Capri in Italy, the dish was cr
 </ul>
 </body>
 
+<button onclick="document.getElementById('myDialog').showModal()">Open Recipe Notes</button>
 
+<!-- The dialog box -->
+<dialog id="myDialog">
+  <p>Here are some quick chef tips for this recipe!</p>
+  
+  <!-- JavaScript close button -->
+  <button onclick="document.getElementById('myDialog').close()">Close</button>
+</dialog>
 
 
 </html>
