@@ -1,9 +1,9 @@
 ## Culinary-Guide
 
 This website has descriptions of 3 food items: 
-<li> </li> <br> 
-<li> </li> <br> 
-<li> </li> <br> 
+<li> garlic Butter Pasta</li> <br> 
+<li> Caprese Salad </li> <br> 
+<li> Stir-Fry with Tofu</li> <br> 
 
 ## Features: 
 No JavaScript
