@@ -6,9 +6,9 @@ This website has descriptions of 3 food items:
 <li> Stir-Fry with Tofu</li> <br> 
 
 ## Features: 
-Little JavaScript
-No CSS
-Only HTML
+<li> Little JavaScript </li> <br> 
+<li> No CSS  </li> <br> 
+<li> Only HTML  </li> <br> 
 
 ## Features
 I have used a progress bar to show the difficulty of each recipe and a dialog box at the end for a bonus link. I also use JavaScript for the dialog box to work. 
