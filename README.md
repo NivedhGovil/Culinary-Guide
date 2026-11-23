@@ -15,7 +15,6 @@ I have used a progress bar to show the difficulty of each recipe and a dialog bo
 
 ## View Website
 
-1. Go here ```[https://the-culinary-guide.vercel.app/]([https://culinaryguide-nivedh.vercel.app/](https://the-culinary-guide.vercel.app/))```
-
+1. Go here: https://the-culinary-guide.vercel.app/
 
 
